@@ -1,0 +1,782 @@
+[
+  {
+    "itemId": "item_1",
+    "itemCode": 1,
+    "itemName": "Tea / Milk",
+    "itemPrice": 14.00
+  },
+  {
+    "itemId": "item_2",
+    "itemCode": 2,
+    "itemName": "Coffee",
+    "itemPrice": 15.00
+  },
+  {
+    "itemId": "item_3",
+    "itemCode": 3,
+    "itemName": "Na. Sugar Tea",
+    "itemPrice": 20.00
+  },
+  {
+    "itemId": "item_4",
+    "itemCode": 4,
+    "itemName": "Lemon Tea",
+    "itemPrice": 20.00
+  },
+  {
+    "itemId": "item_5",
+    "itemCode": 5,
+    "itemName": "Ginger Tea",
+    "itemPrice": 20.00
+  },
+  {
+    "itemId": "item_6",
+    "itemCode": 6,
+    "itemName": "Parcel Tea",
+    "itemPrice": 40.00
+  },
+  {
+    "itemId": "item_7",
+    "itemCode": 7,
+    "itemName": "Parcel Coffee",
+    "itemPrice": 40.00
+  },
+  {
+    "itemId": "item_8",
+    "itemCode": 8,
+    "itemName": "Vadai",
+    "itemPrice": 8.00
+  },
+  {
+    "itemId": "item_9",
+    "itemCode": 9,
+    "itemName": "Idly",
+    "itemPrice": 9.00
+  },
+  {
+    "itemId": "item_10",
+    "itemCode": 10,
+    "itemName": "Dosai",
+    "itemPrice": 50.00
+  },
+  {
+    "itemId": "item_11",
+    "itemCode": 11,
+    "itemName": "Podi Dosai",
+    "itemPrice": 60.00
+  },
+  {
+    "itemId": "item_12",
+    "itemCode": 12,
+    "itemName": "Onion Dosai",
+    "itemPrice": 70.00
+  },
+  {
+    "itemId": "item_13",
+    "itemCode": 13,
+    "itemName": "Ghee Dosai",
+    "itemPrice": 70.00
+  },
+  {
+    "itemId": "item_14",
+    "itemCode": 14,
+    "itemName": "Rava Dosai",
+    "itemPrice": 70.00
+  },
+  {
+    "itemId": "item_15",
+    "itemCode": 15,
+    "itemName": "Poori Set",
+    "itemPrice": 50.00
+  },
+  {
+    "itemId": "item_16",
+    "itemCode": 16,
+    "itemName": "Poori - 1",
+    "itemPrice": 25.00
+  },
+  {
+    "itemId": "item_17",
+    "itemCode": 17,
+    "itemName": "Pongal",
+    "itemPrice": 50.00
+  },
+  {
+    "itemId": "item_18",
+    "itemCode": 18,
+    "itemName": "Combo Breakfast",
+    "itemPrice": 80.00
+  },
+  {
+    "itemId": "item_19",
+    "itemCode": 19,
+    "itemName": "Vedi Cake",
+    "itemPrice": 15.00
+  },
+  {
+    "itemId": "item_20",
+    "itemCode": 20,
+    "itemName": "Samosa",
+    "itemPrice": 12.00
+  },
+  {
+    "itemId": "item_21",
+    "itemCode": 21,
+    "itemName": "Butter Bun",
+    "itemPrice": 20.00
+  },
+  {
+    "itemId": "item_22",
+    "itemCode": 22,
+    "itemName": "Badam Milk",
+    "itemPrice": 35.00
+  },
+  {
+    "itemId": "item_23",
+    "itemCode": 23,
+    "itemName": "Paniyaram Plt",
+    "itemPrice": 20.00
+  },
+  {
+    "itemId": "item_24",
+    "itemCode": 24,
+    "itemName": "Booli",
+    "itemPrice": 15.00
+  },
+  {
+    "itemId": "item_25",
+    "itemCode": 25,
+    "itemName": "Paruthippal",
+    "itemPrice": 20.00
+  },
+  {
+    "itemId": "item_26",
+    "itemCode": 26,
+    "itemName": "Kolukkattai",
+    "itemPrice": 10.00
+  },
+  {
+    "itemId": "item_27",
+    "itemCode": 27,
+    "itemName": "Paal Kolukkattai",
+    "itemPrice": 20.00
+  },
+  {
+    "itemId": "item_28",
+    "itemCode": 28,
+    "itemName": "Soup",
+    "itemPrice": 20.00
+  },
+  {
+    "itemId": "item_29",
+    "itemCode": 29,
+    "itemName": "Pakkoda",
+    "itemPrice": 20.00
+  },
+  {
+    "itemId": "item_30",
+    "itemCode": 30,
+    "itemName": "Payaru Vagai",
+    "itemPrice": 20.00
+  },
+  {
+    "itemId": "item_31",
+    "itemCode": 31,
+    "itemName": "Meals",
+    "itemPrice": 90.00
+  },
+  {
+    "itemId": "item_32",
+    "itemCode": 32,
+    "itemName": "Parcel Meals",
+    "itemPrice": 110.00
+  },
+  {
+    "itemId": "item_33",
+    "itemCode": 33,
+    "itemName": "Kalavai Satham",
+    "itemPrice": 50.00
+  },
+  {
+    "itemId": "item_34",
+    "itemCode": 34,
+    "itemName": "Combo Meals",
+    "itemPrice": 80.00
+  },
+  {
+    "itemId": "item_35",
+    "itemCode": 35,
+    "itemName": "Horlicks / Boost",
+    "itemPrice": 20.00
+  },
+  {
+    "itemId": "item_36",
+    "itemCode": 36,
+    "itemName": "Parotta Set",
+    "itemPrice": 40.00
+  },
+  {
+    "itemId": "item_37",
+    "itemCode": 37,
+    "itemName": "Parotta",
+    "itemPrice": 20.00
+  },
+  {
+    "itemId": "item_38",
+    "itemCode": 38,
+    "itemName": "Chappathi Set",
+    "itemPrice": 40.00
+  },
+  {
+    "itemId": "item_39",
+    "itemCode": 39,
+    "itemName": "Chappathi - 1",
+    "itemPrice": 20.00
+  },
+  {
+    "itemId": "item_40",
+    "itemCode": 40,
+    "itemName": "Gravy",
+    "itemPrice": 100.00
+  },
+  {
+    "itemId": "item_41",
+    "itemCode": 41,
+    "itemName": "Dry",
+    "itemPrice": 90.00
+  },
+  {
+    "itemId": "item_42",
+    "itemCode": 42,
+    "itemName": "Veg Rice",
+    "itemPrice": 90.00
+  },
+  {
+    "itemId": "item_43",
+    "itemCode": 43,
+    "itemName": "Veg Noodles",
+    "itemPrice": 90.00
+  },
+  {
+    "itemId": "item_44",
+    "itemCode": 44,
+    "itemName": "Panneer Rice",
+    "itemPrice": 100.00
+  },
+  {
+    "itemId": "item_45",
+    "itemCode": 45,
+    "itemName": "Panneer Noodles",
+    "itemPrice": 100.00
+  },
+  {
+    "itemId": "item_46",
+    "itemCode": 46,
+    "itemName": "Mushroom Rice",
+    "itemPrice": 100.00
+  },
+  {
+    "itemId": "item_47",
+    "itemCode": 47,
+    "itemName": "Mushroom Noodles",
+    "itemPrice": 100.00
+  },
+  {
+    "itemId": "item_48",
+    "itemCode": 48,
+    "itemName": "Chilli Parotta",
+    "itemPrice": 100.00
+  },
+  {
+    "itemId": "item_49",
+    "itemCode": 49,
+    "itemName": "Veg Kothu Parotta",
+    "itemPrice": 100.00
+  },
+  {
+    "itemId": "item_50",
+    "itemCode": 50,
+    "itemName": "Sambar Idly",
+    "itemPrice": 60.00
+  },
+  {
+    "itemId": "item_51",
+    "itemCode": 51,
+    "itemName": "Curd Vadai",
+    "itemPrice": 20.00
+  },
+  {
+    "itemId": "item_52",
+    "itemCode": 52,
+    "itemName": "Sambar Vadai",
+    "itemPrice": 20.00
+  },
+  {
+    "itemId": "item_53",
+    "itemCode": 53,
+    "itemName": "Chola Poori",
+    "itemPrice": 60.00
+  },
+  {
+    "itemId": "item_54",
+    "itemCode": 54,
+    "itemName": "Mushroom Ko. Parotta",
+    "itemPrice": 110.00
+  },
+  {
+    "itemId": "item_55",
+    "itemCode": 55,
+    "itemName": "Paneer Ko. Parotta",
+    "itemPrice": 110.00
+  },
+  {
+    "itemId": "item_56",
+    "itemCode": 56,
+    "itemName": "Combo Dinner",
+    "itemPrice": 80.00
+  },
+  {
+    "itemId": "item_57",
+    "itemCode": 57,
+    "itemName": "Cup",
+    "itemPrice": 0.50
+  },
+  {
+    "itemId": "item_58",
+    "itemCode": 58,
+    "itemName": "NsCofff",
+    "itemPrice": 20.00
+  },
+  {
+    "itemId": "item_59",
+    "itemCode": 59,
+    "itemName": "Tea - 1*5",
+    "itemPrice": 65.00
+  },
+  {
+    "itemId": "item_60",
+    "itemCode": 60,
+    "itemName": "Coffee - 1*5",
+    "itemPrice": 70.00
+  },
+  {
+    "itemId": "item_61",
+    "itemCode": 61,
+    "itemName": "Students - Tea/Coffee",
+    "itemPrice": 10.00
+  },
+  {
+    "itemId": "item_62",
+    "itemCode": 62,
+    "itemName": "Kesari",
+    "itemPrice": 20.00
+  },
+  {
+    "itemId": "item_63",
+    "itemCode": 63,
+    "itemName": "Veg - Biriyani",
+    "itemPrice": 60.00
+  },
+  {
+    "itemId": "item_64",
+    "itemCode": 64,
+    "itemName": "Kalan / Paneer Dosa",
+    "itemPrice": 100.00
+  },
+  {
+    "itemId": "item_65",
+    "itemCode": 65,
+    "itemName": "Students / Meals",
+    "itemPrice": 60.00
+  },
+  {
+    "itemId": "item_66",
+    "itemCode": 66,
+    "itemName": "Puttu",
+    "itemPrice": 25.00
+  },
+  {
+    "itemId": "item_67",
+    "itemCode": 67,
+    "itemName": "Sambar / Rasam / Veg",
+    "itemPrice": 25.00
+  },
+  {
+    "itemId": "item_68",
+    "itemCode": 68,
+    "itemName": "Milagu / Sukku / Pkal",
+    "itemPrice": 20.00
+  },
+  {
+    "itemId": "item_69",
+    "itemCode": 69,
+    "itemName": "Extra - Rice",
+    "itemPrice": 30.00
+  },
+  {
+    "itemId": "item_70",
+    "itemCode": 70,
+    "itemName": "Uthappam",
+    "itemPrice": 40.00
+  },
+  {
+    "itemId": "item_71",
+    "itemCode": 71,
+    "itemName": "Kali",
+    "itemPrice": 20.00
+  },
+  {
+    "itemId": "item_72",
+    "itemCode": 72,
+    "itemName": "Kali Parcel",
+    "itemPrice": 30.00
+  },
+  {
+    "itemId": "item_73",
+    "itemCode": 73,
+    "itemName": "Idiyappam",
+    "itemPrice": 15.00
+  },
+  {
+    "itemId": "item_74",
+    "itemCode": 74,
+    "itemName": "Kuska",
+    "itemPrice": 50.00
+  },
+  {
+    "itemId": "item_75",
+    "itemCode": 75,
+    "itemName": "Veg Sandwich",
+    "itemPrice": 50.00
+  },
+  {
+    "itemId": "item_76",
+    "itemCode": 76,
+    "itemName": "Aappam",
+    "itemPrice": 15.00
+  },
+  {
+    "itemId": "item_77",
+    "itemCode": 77,
+    "itemName": "Kadalai - Mittai",
+    "itemPrice": 5.00
+  },
+  {
+    "itemId": "item_78",
+    "itemCode": 78,
+    "itemName": "Kadalai - Mittai",
+    "itemPrice": 2.00
+  },
+  {
+    "itemId": "item_79",
+    "itemCode": 79,
+    "itemName": "Lemon",
+    "itemPrice": 20.00
+  },
+  {
+    "itemId": "item_80",
+    "itemCode": 80,
+    "itemName": "Watermelon",
+    "itemPrice": 30.00
+  },
+  {
+    "itemId": "item_81",
+    "itemCode": 81,
+    "itemName": "Rosemilk",
+    "itemPrice": 40.00
+  },
+  {
+    "itemId": "item_82",
+    "itemCode": 82,
+    "itemName": "Sathukudi",
+    "itemPrice": 40.00
+  },
+  {
+    "itemId": "item_83",
+    "itemCode": 83,
+    "itemName": "Apple",
+    "itemPrice": 60.00
+  },
+  {
+    "itemId": "item_84",
+    "itemCode": 84,
+    "itemName": "Maathulai",
+    "itemPrice": 60.00
+  },
+  {
+    "itemId": "item_85",
+    "itemCode": 85,
+    "itemName": "Pineapple",
+    "itemPrice": 50.00
+  },
+  {
+    "itemId": "item_86",
+    "itemCode": 86,
+    "itemName": "Fruit Mixture",
+    "itemPrice": 25.00
+  },
+  {
+    "itemId": "item_87",
+    "itemCode": 87,
+    "itemName": "Cucumber",
+    "itemPrice": 20.00
+  },
+  {
+    "itemId": "item_88",
+    "itemCode": 88,
+    "itemName": "Muskmelon",
+    "itemPrice": 40.00
+  },
+  {
+    "itemId": "item_89",
+    "itemCode": 89,
+    "itemName": "Mini Vadai",
+    "itemPrice": 5.00
+  },
+  {
+    "itemId": "item_90",
+    "itemCode": 90,
+    "itemName": "Paneer / Mushroom - S",
+    "itemPrice": 80.00
+  },
+  {
+    "itemId": "item_91",
+    "itemCode": 91,
+    "itemName": "Water",
+    "itemPrice": 20.00
+  },
+  {
+    "itemId": "item_92",
+    "itemCode": 92,
+    "itemName": "Cool - Drinks",
+    "itemPrice": 10.00
+  },
+  {
+    "itemId": "item_93",
+    "itemCode": 93,
+    "itemName": "Cool - Drinks",
+    "itemPrice": 15.00
+  },
+  {
+    "itemId": "item_94",
+    "itemCode": 94,
+    "itemName": "Cool - Drinks",
+    "itemPrice": 20.00
+  },
+  {
+    "itemId": "item_95",
+    "itemCode": 95,
+    "itemName": "Cool - Drinks",
+    "itemPrice": 25.00
+  },
+  {
+    "itemId": "item_96",
+    "itemCode": 96,
+    "itemName": "Cool - Drinks",
+    "itemPrice": 40.00
+  },
+  {
+    "itemId": "item_97",
+    "itemCode": 97,
+    "itemName": "Paneer / Mushroom - Dosai",
+    "itemPrice": 100.00
+  },
+  {
+    "itemId": "item_98",
+    "itemCode": 98,
+    "itemName": "Kep / Val / Ppak / Masa",
+    "itemPrice": 10.00
+  },
+  {
+    "itemId": "item_99",
+    "itemCode": 99,
+    "itemName": "Gobi - 65",
+    "itemPrice": 50.00
+  },
+  {
+    "itemId": "item_100",
+    "itemCode": 100,
+    "itemName": "Cauliflower Pakoda",
+    "itemPrice": 30.00
+  },
+  {
+    "itemId": "item_101",
+    "itemCode": 101,
+    "itemName": "Pal - Kol / P - Pal - Par",
+    "itemPrice": 30.00
+  },
+  {
+    "itemId": "item_102",
+    "itemCode": 102,
+    "itemName": "Mushroom - Soup",
+    "itemPrice": 30.00
+  },
+  {
+    "itemId": "item_103",
+    "itemCode": 103,
+    "itemName": "Cutlet",
+    "itemPrice": 20.00
+  },
+  {
+    "itemId": "item_104",
+    "itemCode": 104,
+    "itemName": "Finger Chips",
+    "itemPrice": 40.00
+  },
+  {
+    "itemId": "item_105",
+    "itemCode": 105,
+    "itemName": "Cheese + Sandwich",
+    "itemPrice": 90.00
+  },
+  {
+    "itemId": "item_106",
+    "itemCode": 106,
+    "itemName": "Hor / Boost - Parcel",
+    "itemPrice": 50.00
+  },
+  {
+    "itemId": "item_107",
+    "itemCode": 107,
+    "itemName": "Badam - Milk - Parcel",
+    "itemPrice": 50.00
+  },
+  {
+    "itemId": "item_108",
+    "itemCode": 108,
+    "itemName": "Sambar / Curd - Vadai",
+    "itemPrice": 20.00
+  },
+  {
+    "itemId": "item_109",
+    "itemCode": 109,
+    "itemName": "Idly + Vadacurry",
+    "itemPrice": 50.00
+  },
+  {
+    "itemId": "item_110",
+    "itemCode": 110,
+    "itemName": "Vadacurry",
+    "itemPrice": 30.00
+  },
+  {
+    "itemId": "item_111",
+    "itemCode": 111,
+    "itemName": "Vada - Kari",
+    "itemPrice": 30.00
+  },
+  {
+    "itemId": "item_112",
+    "itemCode": 112,
+    "itemName": "Golisoda",
+    "itemPrice": 30.00
+  },
+  {
+    "itemId": "item_113",
+    "itemCode": 113,
+    "itemName": "Lemon Rice",
+    "itemPrice": 50.00
+  },
+  {
+    "itemId": "item_114",
+    "itemCode": 114,
+    "itemName": "Sambar Rice",
+    "itemPrice": 50.00
+  },
+  {
+    "itemId": "item_115",
+    "itemCode": 115,
+    "itemName": "Tomato Rice",
+    "itemPrice": 50.00
+  },
+  {
+    "itemId": "item_116",
+    "itemCode": 116,
+    "itemName": "Curd Rice",
+    "itemPrice": 50.00
+  },
+  {
+    "itemId": "item_117",
+    "itemCode": 117,
+    "itemName": "Puliyotharai",
+    "itemPrice": 50.00
+  },
+  {
+    "itemId": "item_118",
+    "itemCode": 118,
+    "itemName": "Mint / Malli / Curry",
+    "itemPrice": 50.00
+  },
+  {
+    "itemId": "item_119",
+    "itemCode": 119,
+    "itemName": "Paneer / Mushroom - Kot - P",
+    "itemPrice": 120.00
+  },
+  {
+    "itemId": "item_120",
+    "itemCode": 120,
+    "itemName": "Half + Rice",
+    "itemPrice": 30.00
+  },
+  {
+    "itemId": "item_121",
+    "itemCode": 121,
+    "itemName": "Order -",
+    "itemPrice": 7310.00
+  },
+  {
+    "itemId": "item_122",
+    "itemCode": 122,
+    "itemName": "Kaalan - Biriyani",
+    "itemPrice": 70.00
+  },
+  {
+    "itemId": "item_123",
+    "itemCode": 123,
+    "itemName": "Paal Bun",
+    "itemPrice": 15.00
+  },
+  {
+    "itemId": "item_124",
+    "itemCode": 124,
+    "itemName": "Suru Puvri",
+    "itemPrice": 15.00
+  },
+  {
+    "itemId": "item_125",
+    "itemCode": 125,
+    "itemName": "Badam / Rose Milk",
+    "itemPrice": 35.00
+  },
+  {
+    "itemId": "item_126",
+    "itemCode": 126,
+    "itemName": "Schezwan Rice / Noodles",
+    "itemPrice": 110.00
+  },
+  {
+    "itemId": "item_127",
+    "itemCode": 127,
+    "itemName": "Rasam Rice",
+    "itemPrice": 50.00
+  },
+  {
+    "itemId": "item_128",
+    "itemCode": 128,
+    "itemName": "Delivery Rare",
+    "itemPrice": 20.00
+  },
+  {
+    "itemId": "item_129",
+    "itemCode": 129,
+    "itemName": "Bru - Cold - Coffee",
+    "itemPrice": 45.00
+  },
+  {
+    "itemId": "item_130",
+    "itemCode": 130,
+    "itemName": "Omelte",
+    "itemPrice": 15.00
+  }
+]

@@ -1,0 +1,38 @@
+﻿@model List<ItemFinderWeb.Models.ItemModel>
+
+@{
+    ViewData["Title"] = "Menu Search";
+}
+
+
+<div class="container">
+
+    <h2>Karthika Hot & Cool Spot</h2>
+
+    <form method="get" asp-controller="Item" asp-action="Index">
+        <input type="text" name="search" value="@ViewBag.Search" placeholder="Search item by name..." />
+        <button type="submit">Search</button>
+    </form>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Number</th>
+                <th>Name</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.ItemCode</td>
+                    <td>@item.ItemName</td>
+                    <td>@item.PriceDisplay</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+
+</div>
