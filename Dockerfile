@@ -8,16 +8,16 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
 # Copy csproj and restore
-COPY ["ItemFinderWeb/ItemFinderWeb.csproj", "ItemFinderWeb/"]
-RUN dotnet restore "ItemFinderWeb/ItemFinderWeb.csproj"
+COPY ["MenuItemFinder/MenuItemFinder.csproj", "MenuItemFinder/"]
+RUN dotnet restore "MenuItemFinder/MenuItemFinder.csproj"
 
 # Copy the rest and build
 COPY . .
-WORKDIR "/src/ItemFinderWeb"
-RUN dotnet publish "ItemFinderWeb.csproj" -c Release -o /app/publish
+WORKDIR "/src/MenuItemFinder"
+RUN dotnet publish "MenuItemFinder.csproj" -c Release -o /app/publish
 
 # Final image
 FROM base AS final
 WORKDIR /app
 COPY --from=build /app/publish .
-ENTRYPOINT ["dotnet", "ItemFinderWeb.dll"]
+ENTRYPOINT ["dotnet", "MenuItemFinder.dll"]
