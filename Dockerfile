@@ -8,12 +8,11 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
 # Copy csproj and restore
-COPY ["MenuItemFinder/MenuItemFinder.csproj", "MenuItemFinder/"]
-RUN dotnet restore "MenuItemFinder/MenuItemFinder.csproj"
+COPY ["MenuItemFinder.csproj", "."]
+RUN dotnet restore "./MenuItemFinder.csproj"
 
 # Copy the rest and build
 COPY . .
-WORKDIR "/src/MenuItemFinder"
 RUN dotnet publish "MenuItemFinder.csproj" -c Release -o /app/publish
 
 # Final image
